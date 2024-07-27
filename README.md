@@ -4,7 +4,7 @@ This repo is the package for "LibreLog: Accurate and Efficient Unsupervised Log 
 
 ## Overall workflow of LibreLog
 
-<p align="center"><img src="docs/work_flow.pdf" width="1000"></p>
+<p align="center"><img src="docs/work_flow.png" width="1000"></p>
 
 
 
