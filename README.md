@@ -67,7 +67,7 @@ Please first download the full datasets of Loghub-2.0 via [Zenodo](https://zenod
 
 Please run the following command to run LibreLog.
 ```shell
-python parsing.py
+sh parsing.sh
 ```
 
 
